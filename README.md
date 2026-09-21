@@ -18,7 +18,7 @@ An Arduino-based electromechanical system that automates the deployment and retr
 
 ## Overview
 
-Traditional centre stands require the rider to lift 40–60% of a motorcycle's weight, which is difficult for elderly riders, women, and anyone with physical limitations. This project replaces that manual effort with a high-torque electromechanical actuator controlled by an Arduino Nano. With a single button press, the actuator lowers the stand, lifts the bike into a stable upright position, and automatically locks — with limit switches, an H-bridge motor driver, and safety cutoffs preventing overload or over-travel.
+Traditional centre stands require the rider to lift 40–60% of a motorcycle's weight, which is difficult for elderly riders, women, and anyone with physical limitations. This project replaces that manual effort with a high-torque electromechanical actuator controlled by an Arduino Nano. With a single button press, the actuator lowers the stand, lifts the bike into a stable upright position, and automatically locks — with limit switches, an H-bridge motor driver, and safety cutoffs preventing overload or over-travel
 
 ## Key Features
 
