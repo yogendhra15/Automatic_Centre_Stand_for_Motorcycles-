@@ -5,7 +5,7 @@ An Arduino-based electromechanical system that automates the deployment and retr
 > Mechatronics and Instrumentation Lab Project, Indian Institute of Technology Indore
 > Course Instructor: Prof. I. A. Palani
 
-## Team
+### Team
 
 | Name | Roll No. |
 |---|---|
